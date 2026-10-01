@@ -2,8 +2,9 @@
 
 Supplementary material for:
 
-**OmegaClaw: A Continually Operating Agentic Architecture under Bounded Resources.**
-M. Botnick, P. Hammer, P. Isaev, B. Goertzel, K. Crawford. Artificial General Intelligence (AGI 2026).
+**OmegaClaw: A Continually Operating Agentic Architecture Under Bounded Resources.**
+M. Botnick, P. Hammer, P. Isaev, B. Goertzel, K. Crawford. Artificial General Intelligence (AGI 2026), Springer.
+Paper: <https://link.springer.com/chapter/10.1007/978-3-032-33010-9_22>
 
 This repository documents the operational behaviors — "vectors of interest" — observed during the deployment described in Section 6, scaffolded or not, each anchored to a specific transcript message or memory atom so they can be checked against the record. We make no emergence claims; the behaviors are reported as documented observations.
 
@@ -33,7 +34,7 @@ This is a redacted, anchored **subset**, not the full corpus.
 
 ## Citing
 
-Please cite the paper. To cite this supplement, use the archived release (DOI below) or this repository at the commit referenced in the paper.
+Please cite the paper ([doi:10.1007/978-3-032-33010-9_22](https://doi.org/10.1007/978-3-032-33010-9_22)). To cite this supplement, use the archived release (DOI below) or this repository at the commit referenced in the paper.
 
 > Archived release: [Zenodo DOI to be inserted after the first release]
 
